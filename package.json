@@ -1,0 +1,31 @@
+{
+  "name": "twacker-serverless",
+  "version": "0.1.0",
+  "description": "The Twitter tracker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danasilver/twacker-serverless.git"
+  },
+  "keywords": [
+    "twitter",
+    "followers",
+    "following",
+    "serverless",
+    "apex",
+    "lambda",
+    "aws"
+  ],
+  "author": "Dana Silver <dsilver1221@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danasilver/twacker-serverless/issues"
+  },
+  "homepage": "https://github.com/danasilver/twacker-serverless#readme",
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  }
+}

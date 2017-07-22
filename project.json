@@ -1,0 +1,14 @@
+{
+  "name": "twacker",
+  "description": "The Twitter tracker.",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::061456065888:role/twacker_lambda_function",
+  "environment": {},
+  "runtime": "nodejs6.10",
+  "hooks": {
+    "build": "tsc index.ts",
+    "clean": "rm index.js"
+  },
+  "profile": "danasilver-apex"
+}
