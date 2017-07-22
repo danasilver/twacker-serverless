@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/danasilver/twacker-serverless#readme",
   "devDependencies": {
+    "@types/aws-lambda": "0.0.15",
     "typescript": "^2.4.2"
   }
 }
