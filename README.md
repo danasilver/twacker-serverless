@@ -21,3 +21,5 @@ files setup.
 * Note: If you don't include the config settings in your `~/.aws/credentials`
   file, you'll need to set `AWS_SDK_LOAD_CONFIG=1` in your shell before
   running `apex(1)`.
+
+Invocation url: https://c03u7ilr9h.execute-api.us-west-2.amazonaws.com/prod/stats
